@@ -1,0 +1,23 @@
+
+div{
+    margin-bottom: 12px;
+}
+.topic{
+    margin-top:5%;
+}
+
+#image1,#image2,#image3
+{
+    width: 450px;
+    height: 350px;
+    object-fit:cover;
+}
+
+
+.socialIcon{
+    text-align: center;
+}
+.navbar li{
+float: left;
+padding-left:5px;
+}
