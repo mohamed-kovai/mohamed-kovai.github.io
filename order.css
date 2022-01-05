@@ -1,0 +1,17 @@
+.heading h1{
+    text-align: center;
+    color:navy
+}
+
+table,th,td{
+    border:3px solid black;
+    
+}
+
+.formbtn{
+    margin-left: 29;
+}
+
+.formtable{
+    margin-left:40%;
+}
